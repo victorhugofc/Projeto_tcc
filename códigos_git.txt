@@ -1,0 +1,5 @@
+git clone https://github.com/victorhugofc/Projeto_tcc.git
+git add *
+git config user.email "victorhugofontolan@hotmail.com"
+git commit -m "Mensagem explicando mudanças"
+git push origin master
